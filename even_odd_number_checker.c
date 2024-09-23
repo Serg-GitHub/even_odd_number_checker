@@ -2,7 +2,7 @@
 
 int main() 
 {
-    // Declare integer viriable 'num'
+    // Declare integer variable 'num'
     int num;
 
 
